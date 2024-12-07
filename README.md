@@ -2,7 +2,8 @@
 Contributors:
 Alex Coles
 Chris Ong
-Peter
-DJ
+Peter Vierthaler
+Dominador Dispo
 
-The goal of this project is to analyze models of infectious diseases and use different numerical methods to work with data.
+This project's goal is to analyze the SIR model of the spread of infectious diseases and use different numerical methods to work with data. It will also show how public health organizations can use mathematical models to predict how epidemics will spread.
+Coded in MATLAB
